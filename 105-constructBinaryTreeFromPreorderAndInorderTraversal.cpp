@@ -1,5 +1,5 @@
-//preorder: root left right
-//inorder:  left root right
+// preorder: root left right
+// inorder:  left root right
 
 /*
  * Definition for a binary tree node.
